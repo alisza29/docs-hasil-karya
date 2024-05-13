@@ -10,5 +10,5 @@ Fitur "Log Data Ews Device" untuk memeriksa seluruh data log pengukuran berdasar
 
 ## Langkah-langkah Mendapatkan Data Pengukuran
 
-1. Klik menu "Pilih Device" dan pilih device yang ingin dilihat
+1. Klik menu "Pilih Device" dan pilih device yang ingin dilihat.
 ![EWS](../assets/early-warning-system/log-data.png)

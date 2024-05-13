@@ -10,5 +10,5 @@ Fitur "Dashboard" memberikan kemudahan pengguna untuk memilih perangkat dan meli
 
 ## Langkah-langkah Melihat Perkembangan Device
 
-1. Klik menu "Pilih Device" dan pilih device yang ingin dilihat
+1. Klik menu "Pilih Device" dan pilih device yang ingin dilihat.
 ![EWS](../assets/early-warning-system/dashboard-pilih.png)

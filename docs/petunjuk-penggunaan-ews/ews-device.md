@@ -10,8 +10,8 @@ Fitur "EWS Device" merupakan antarmuka yang menampilkan keseluruhan data dari se
 
 ## Langkah-langkah Tambah Ews Device
 
-1. Klik menu "TAMBAH EWS DEVICE" pada halaman dahsboard
+1. Klik menu "TAMBAH EWS DEVICE" pada halaman dahsboard.
 ![EWS](../assets/early-warning-system/device-tambah.png)
 
-2. Lengkapi semua data yang diperlukan dan simpan                 
+2. Lengkapi semua data yang diperlukan dan simpan.                 
 ![EWS](../assets/early-warning-system/device-form.png)

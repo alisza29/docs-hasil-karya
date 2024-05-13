@@ -16,37 +16,37 @@ Fitur "Pencatatan Bahan Bakar Minyak Kendaraan" memberikan kemudahan bagi proyek
 
 ## Langkah-langkah Penggunaan
 
-1. Solar Man login pada Aplikasi Android menggunakan akun yang terdaftar pada Aplikasi Sistem Hasil Karya  
+1. Solar Man login pada Aplikasi Android menggunakan akun yang terdaftar pada Aplikasi Sistem Hasil Karya.  
 ![Login Page](../assets/pencatatan-bbm-kendaraan/login.jpg)
 
-2. Klik menu "Scan Transaksi BBM" pada halaman dashboard                                                                  
+2. Klik menu "Scan Transaksi BBM" pada halaman dashboard.                                                                  
 ![Dashboard Page](../assets/pencatatan-bbm-kendaraan/dashboard.jpg)
 
-3. Klik salah satu menu yang ingin digunakan    
+3. Klik salah satu menu yang ingin digunakan.    
 ![Dropdown](../assets/pencatatan-bbm-kendaraan/dropdown.jpg)
 
-4. Scan QR code yang terdapat pada truck atau alat berat sesuai menu yang dipilih                 
+4. Scan QR code yang terdapat pada truck atau alat berat sesuai menu yang dipilih.                 
 ![QRCode](../assets/pencatatan-bbm-kendaraan/scan-truck.jpg)
 
-5. Scan QR Code Driver truck atau alat berat sesuai menu yang dipilih            
+5. Scan QR Code Driver truck atau alat berat sesuai menu yang dipilih.            
 ![QRCode](../assets/pencatatan-bbm-kendaraan/scan-driver.jpg)
 
-6. Scan QR Code Pos atau Station Solar Man               
+6. Scan QR Code Pos atau Station Solar Man.               
 ![QRCode](../assets/pencatatan-bbm-kendaraan/scan-pos.jpg)
 
-7. Scan QR Code Jumlah BBM yang dikeluarkan Flow Meter              
+7. Scan QR Code Jumlah BBM yang dikeluarkan Flow Meter.              
 ![QRCode](../assets/pencatatan-bbm-kendaraan/scan-total.jpg)
 
-8. Lengkapi semua data yang diperlukan dan simpan                 
+8. Lengkapi semua data yang diperlukan dan simpan.                 
 ![QRCode](../assets/pencatatan-bbm-kendaraan/isi-data.jpg)
 
-9. Jika Solar Man melakukan scan secara offline data tersimpan pada local storage android, dan otomatis tersinkronisasi pada website ketika handphone terkoneksi internet         
+9. Jika Solar Man melakukan scan secara offline data tersimpan pada local storage android, dan otomatis tersinkronisasi pada website ketika handphone terkoneksi internet.         
 ![QRCode](../assets/pencatatan-bbm-kendaraan/data-disimpan.jpg)
 
-10. Tampilan pada website setelah Solar Man berhasil memasukan data   
+10. Tampilan pada website setelah Solar Man berhasil memasukan data.   
 ![Menu Pencatatan Perpindahan Material](../assets/pencatatan-bbm-kendaraan/data.png)
 
-11. Jika Solar Man melakukan kesalahan input maka data akan masuk pada menu "Error Logs Pengisian Bahan Bakar"
+11. Jika Solar Man melakukan kesalahan input maka data akan masuk pada menu "Error Logs Pengisian Bahan Bakar".
 ![Menu Pencatatan Perpindahan Material](../assets/pencatatan-bbm-kendaraan/eror-log.png)
 
 

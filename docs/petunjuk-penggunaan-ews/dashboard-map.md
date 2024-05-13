@@ -15,5 +15,5 @@ Fitur "Dashboard Map" memberikan kemudahan pengguna untuk melihat perkembangan d
 
 ## Langkah Melihat Klasifikasi Gempa
 
-1. Klik titik koordinat device
+1. Klik titik koordinat device.
 ![EWS](../assets/early-warning-system/map.png)
