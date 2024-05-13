@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Penggunaan EWS Sebagai Client
 
-Penggunaan Early Warning System (EWS) sebagai client dapat dilakukan saat client menerima email dari hasilkarya.co.id yang berisi informasi akun yang telah dibuat oleh admin. Client mengandalkan satu perangkat EWS untuk mengakses dan mengelola semua data yang diterimanya. Dengan demikian, fitur-fitur yang tersedia dalam perangkat tersebut terfokus pada menampilkan data dari satu sumber EWS device yang dimiliki oleh client. Dengan penggunaan yang terfokus ini, client dapat dengan mudah mengakses dan merespons informasi yang diberikan oleh Website EWS mengenai perangkatnya ataupun informasi adanya gempa.
+Penggunaan Early Warning System (EWS) pada client dapat dilakukan saat client menerima email dari hasilkarya.co.id yang berisi informasi akun yang telah dibuat oleh admin. Client mengandalkan satu perangkat EWS untuk mengakses dan mengelola semua data yang diterimanya. Dengan demikian, fitur-fitur yang tersedia dalam perangkat tersebut terfokus pada menampilkan data dari satu sumber EWS device yang dimiliki oleh client. Dengan penggunaan yang terfokus ini, client dapat dengan mudah mengakses dan merespons informasi yang diberikan oleh Website EWS mengenai perangkatnya ataupun informasi adanya gempa.
 
 ![EWS](../assets/penggunaan-client/dashboard.png)
 
