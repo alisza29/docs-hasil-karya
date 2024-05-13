@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Ews Device
+# EWS Device
 
 Fitur "EWS Device" merupakan antarmuka yang menampilkan keseluruhan data dari setiap perangkat EWS (Early Warning System), yang memiliki identitas kode unik untuk setiap perangkat dan dilengkapi dengan spesifikasi yang komprehensif.
 
