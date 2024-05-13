@@ -15,3 +15,12 @@
   --ifm-color-primary-darker: #005EA3;
   --ifm-color-primary-darkest: #004E89;
 }
+
+img {
+  height: 100px;
+  width: 150px;
+}
+
+img[alt="Menu Pencatatan BBM Kendaraan"] {
+  width: 100%;
+}
