@@ -31,7 +31,20 @@ Fitur Pencatatan BBM Kendaraan memungkinkan sebuah proyek untuk melakukan pencat
 5. Scan QR Code Driver            
 ![QRCode](../assets/pencatatan-bbm-kendaraan/scan-driver.jpg)
 
+6. Scan QR Code Pos/Station                
+![QRCode](../assets/pencatatan-bbm-kendaraan/scan-pos.jpg)
 
+7. Scan QR Code Jumlah BBM yang dikeluarkan Flow Meter              
+![QRCode](../assets/pencatatan-bbm-kendaraan/scan-total.jpg)
+
+8. Lengkapi semua data yang diperlukan lalu klik simpan                 
+![QRCode](../assets/pencatatan-bbm-kendaraan/isi-data.jpg)
+
+9. Jika anda melakukan scan secara offline maka data akan tersimpan pada local storage pada android, ketika handphone anda terkoneksi internet maka data akan otomatis tersinkronisasi pada website        
+![QRCode](../assets/pencatatan-bbm-kendaraan/data-disimpan.jpg)
+
+10. Berikut adalah tampilan pada website setelah kita memasukan data   
+![Menu Pencatatan BBM Kendaraan](../assets/pencatatan-bbm-kendaraan/data.png)
 
 
 ## Petunjuk Penggunaan
